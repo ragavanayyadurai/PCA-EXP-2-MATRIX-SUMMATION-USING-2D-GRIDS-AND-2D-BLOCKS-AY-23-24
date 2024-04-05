@@ -233,10 +233,10 @@ return (0);
 
 ## OUTPUT:
 
-![out1](https://github.com/ragavanayyadurai/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/118749557/07885fdb-9d75-4ba0-ad46-2ca396c321e8)
+![image](https://github.com/ragavanayyadurai/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/118749557/b5c90510-67ef-4e30-b5c1-852b52e66900)
 
 
-![out2](https://github.com/ragavanayyadurai/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/118749557/4a6c4918-e70c-4101-8b35-e8f1651ad067)
+![image](https://github.com/ragavanayyadurai/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/118749557/3edbef21-333e-4ebc-a69f-2ef168b1e065)
 
 ## RESULT:
 The host took  seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
