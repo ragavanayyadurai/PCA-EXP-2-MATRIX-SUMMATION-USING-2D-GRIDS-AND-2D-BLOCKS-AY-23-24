@@ -1,4 +1,4 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+# EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
 <h3>
@@ -8,7 +8,7 @@
   REGISTER NUMBER:212222230114
   
   DEPARTMENT:AIDS
-  
+  DATE:
 </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
